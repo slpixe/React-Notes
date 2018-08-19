@@ -15,6 +15,7 @@ Redux DevTools - [Chrome link](https://chrome.google.com/webstore/detail/redux-d
 
 ## 3. Libraries
 ### 3.1 Generic
+nProgress - `generic loading bar at top of screen` [github](https://github.com/rstacruz/nprogress)
 ### 3.2 Browser
 Unfetch - `fetch polyfill` [npm](https://npm.im/unfetch)
 
