@@ -14,8 +14,12 @@ React Developer Tools - [Chrome Link](https://chrome.google.com/webstore/detail/
 Redux DevTools - [Chrome link](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
 
 ## 3. Libraries
+
 ### 3.1 Generic
-nProgress - `generic loading bar at top of screen` [github](https://github.com/rstacruz/nprogress)
+nProgress - `generic loading bar at top of screen`
+[[github]](https://github.com/rstacruz/nprogress)
+[[example]](https://github.com/zeit/next.js/tree/canary/examples/with-loading)
+
 ### 3.2 Browser
 Unfetch - `fetch polyfill` [npm](https://npm.im/unfetch)
 
