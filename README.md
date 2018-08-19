@@ -25,3 +25,6 @@ Unfetch - `fetch polyfill` [npm](https://npm.im/unfetch)
 
 
 ### 3.3 Native
+
+### 3.4 SSR
+NextJS - `Framework which already contains routing and passing server props to a component` [url](https://nextjs.org)
