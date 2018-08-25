@@ -6,6 +6,7 @@
 2. Browser Extensions
 3. Libraries
 4. Styling
+5. Network
 
 ## 1. Basics
 
@@ -33,3 +34,9 @@ NextJS - `Framework which already contains routing and passing server props to a
 ## 4. Styling
 
 - Styled JSX [Github](https://github.com/zeit/styled-jsx)
+
+## 5. Network
+
+- developit/unfetch [Github](https://github.com/developit/unfetch) (Bare minimum fetch polyfill in 500 bytes)
+- developit/isomorphic-unfetch [Github](https://github.com/developit/unfetch/tree/master/packages/isomorphic-unfetch) (Switches between unfetch & node-fetch for client & server.)
+- Axios [Github](https://github.com/axios/axios) (Promise based HTTP client for the browser and node.js)
